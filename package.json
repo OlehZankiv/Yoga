@@ -1,0 +1,16 @@
+{
+  "name": "practic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
